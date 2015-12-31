@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tipper
 //
-//  Created by Anna Xu  on 12/28/15.
+//  Created by Hao Wu  on 12/28/15.
 //  Copyright © 2015 codepath. All rights reserved.
 //
 
